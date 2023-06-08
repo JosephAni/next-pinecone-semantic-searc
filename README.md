@@ -54,4 +54,5 @@ The base of this project was guided by this Node.js tutorial, with some restruct
 
 Getting your data
 I recommend checking out GPT Repository Loader which makes it simple to turn any GitHub repo into a text format, preserving the structure of the files and file contents, making it easy to chop up and save into pinecone using my codebase.
-# next-pinecone-semantic-searc
+
+# next-pinecone-semantic-search
