@@ -17,6 +17,7 @@ It uses natural language processing and machine learning to interpret the semant
 
 Running the app
 How to deploy and run this app.
+{npm run dev}
 
 Prerequisites
 To run this app, you need the following:
